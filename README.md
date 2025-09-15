@@ -22,12 +22,15 @@ Dataset: Sample Comments Texts
 - Text Analysis.ipynb (Jupyter notebook )
 
 ▶️ How to Open & Run the Files
+
 - Option 1: Run Jupyter Notebooks
 
-  Navigate to the notebooks/ folder:jupyter notebook
+  Navigate to the notebooks/ folder: jupyter notebook
+
   Open file in order: Text Analysis.ipynb
 
 - Option 2: Use Google Colab (No Local Setup)
 
   Upload the notebook to Google Colab.
+
   Run directly in the browser.
